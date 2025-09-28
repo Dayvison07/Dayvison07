@@ -2,8 +2,8 @@
 
 <h2>👁️‍🗨️ SOC Projects:</h2>
 
-- <b>Azure Sentinel Honeypot Attack Map</b>
-   > Real-time attack visualization using Azure Sentinel and custom honeypot logs. (SOC | SIEM | Threat Hunting)
+- <b>Azure Sentinel Honeypot Attack Map</b> <br>
+    - Real-time attack visualization using Azure Sentinel and custom honeypot logs. (SOC | SIEM | Threat Hunting)
 
 <h2>⚠️ Vulnerability Manegement Projects:</h2>
 
