@@ -5,7 +5,7 @@
 - **[Siem Playbook Light](https://github.com/Dayvison07/siem-playbook-light)**
   - Lightweight Python playbook for login failure alerts. (SOC | SIEM | Threat Hunting)
 
-- **Azure Sentinel Honeypot Attack Map**
+- **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
   - Real-time attack visualization using Azure Sentinel and custom honeypot logs. (SOC | SIEM | Threat Hunting)
   
 <h2>⚠️ Vulnerability Manegement Projects:</h2>
