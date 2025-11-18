@@ -1,8 +1,8 @@
-<h1>Hi, I'm Kaio! <br/><a  href="https://github.com/Dayvison07">💻 Cybersecurity Enthusiast</a>, <a href="https://github.com/Dayvison07">🛡️ GRC</a>, <a  href="https://github.com/Dayvison07">⚠️ Vulnerability Management</a>, <a  href="https://github.com/Dayvison07">👁️ SOC </a></h1>
+<h1>I'm Kaio! <br/><a  href="https://github.com/Dayvison07">💻 Cybersecurity Enthusiast</a>, <a href="https://github.com/Dayvison07">🛡️ GRC</a>, <a  href="https://github.com/Dayvison07">⚠️ Vulnerability Management</a>, <a  href="https://github.com/Dayvison07">👁️ SOC </a></h1>
 
 <h2>👁️‍🗨️ SOC Projects:</h2>
 
-- **Siem Playbook Light(In progress)**
+- **Siem Playbook Light (In progress)**
   - Lightweight Python playbook for login failure alerts. (SOC | SIEM | Threat Hunting)
 
 - **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
