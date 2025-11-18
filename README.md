@@ -2,7 +2,7 @@
 
 <h2>👁️‍🗨️ SOC Projects:</h2>
 
-- **[Siem Playbook Light](https://github.com/Dayvison07/siem-playbook-light)**
+- **[Siem Playbook Light(In progress)]()**
   - Lightweight Python playbook for login failure alerts. (SOC | SIEM | Threat Hunting)
 
 - **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
