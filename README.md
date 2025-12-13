@@ -11,7 +11,9 @@
   -  Practical, risk-based approach to vulnerability prioritization using the AETEM method (VM | Risk Priorization) 
     
 <h2>🛡️ Governance, Risk and Complience Projects:</h2>
+
 - **Risk analysis and prioritization exercises (in progress)**
+
 
 <h2> 🤳 Connect with me:</h2>
 
