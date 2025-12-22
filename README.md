@@ -1,4 +1,4 @@
-<h1>I'm Kaio! <br/><a  href="https://github.com/Dayvison07">💻 Cybersecurity</a>, <a href="https://github.com/Dayvison07">🛡️ GRC</a>, <a  href="https://github.com/Dayvison07">⚠️ Vulnerability Management</a> <a  href="https://github.com/Dayvison07"></a></h1>
+<h1>I'm Kaio! <br/><a  href="https://github.com/Dayvison07">💻 Cybersecurity</a>, <a href="https://github.com/Dayvison07">⚠️ Vulnerability Management</a>,<a href="https://github.com/Dayvison07"> 🛡️ GRC</a></h1>
 
 <h2>👁️‍🗨️ SOC Projects:</h2>
 
