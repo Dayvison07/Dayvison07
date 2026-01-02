@@ -7,7 +7,7 @@
   
 <h2>⚠️ Vulnerability Manegement Projects:</h2>
 
-- **[Vulnerability Manegement AETEM Risk Priorization](https://github.com/Dayvison07/vulnerability-prioritization-aetem)**
+- **[Vulnerability Management AETEM Risk Priorization](https://github.com/Dayvison07/vulnerability-prioritization-aetem)**
   -  Practical, risk-based approach to vulnerability prioritization using the AETEM method (VM | Risk Priorization) 
     
 <h2>🛡️ Governance, Risk and Complience Projects:</h2>
