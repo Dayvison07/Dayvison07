@@ -5,7 +5,7 @@
 - **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
   - Real-time attack visualization using Azure Sentinel and custom honeypot logs. (SOC | SIEM | Threat Hunting)
   
-<h2>⚠️ Vulnerability Manegement Projects:</h2>
+<h2>⚠️ Vulnerability Management Projects:</h2>
 
 - **[Vulnerability Management AETEM Risk Priorization](https://github.com/Dayvison07/vulnerability-prioritization-aetem)**
   -  Practical, risk-based approach to vulnerability prioritization using the AETEM method (VM | Risk Priorization) 
