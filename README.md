@@ -12,7 +12,8 @@
     
 <h2>🛡️ Governance, Risk and Complience Projects:</h2>
 
-- **Risk analysis and prioritization exercises (in progress)**
+- **[Corporate Security Risk Assessment Simulation](https://github.com/Dayvison07/Security-Risk-Assessment-Simulation)**
+  -  End-to-end risk assessment methodology applying business context to prioritize remediation (GRC | Risk Analysis) 
 
 
 <h2> 🤳 Connect with me:</h2>
