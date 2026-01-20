@@ -2,7 +2,7 @@
 
 <h2>🛠️ Infrastructure Projects:</h2>
 
-
+- Hands-on labs focused on Linux services, access control, availability and secure system operations (in progress).
     
 <h2>⚠️ Vulnerability Management Projects:</h2>
 
