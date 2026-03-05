@@ -1,8 +1,10 @@
-<h1>I'm Kaio! <br/><a  href="https://github.com/Dayvison07">💻 Cybersecurity</a>, <a  href="https://github.com/Dayvison07">🛠️ Infrastructure Security</a>, <a href="https://github.com/Dayvison07">⚠️ Vulnerability Management</a>,<a href="https://github.com/Dayvison07"> 🛡️ GRC</a></h1>
+<h1>I'm Kaio! <br/><a  href="https://github.com/Dayvison07">💻 Cybersecurity</a>, <a  href="https://github.com/Dayvison07">☁️ Cloud Security</a>, <a href="https://github.com/Dayvison07">⚠️ Vulnerability Management</a>,<a href="https://github.com/Dayvison07"> 🛡️ GRC</a></h1>
 
-<h2>🛠️ Infrastructure Projects:</h2>
+<h2>☁️ Cloud Projects:</h2>
 
-- Hands-on labs focused on Linux services, access control, availability and secure system operations (in progress).
+- **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
+  - Real-time attack visualization using Azure Sentinel and custom honeypot logs. (Cloud | SOC | SIEM | Threat Hunting)
+    
     
 <h2>⚠️ Vulnerability Management Projects:</h2>
 
@@ -14,11 +16,7 @@
 - **[Corporate Security Risk Assessment Simulation](https://github.com/Dayvison07/Security-Risk-Assessment-Simulation)**
   -  End-to-end risk assessment methodology applying business context to prioritize remediation (GRC | Risk Analysis) 
 
-<h2>👁️‍🗨️ SOC Projects:</h2>
 
-- **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
-  - Real-time attack visualization using Azure Sentinel and custom honeypot logs. (SOC | SIEM | Threat Hunting)
-    
 <h2> 🤳 Connect with me:</h2>
 
 
