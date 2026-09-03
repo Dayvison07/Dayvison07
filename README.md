@@ -2,6 +2,9 @@
 
 <h2>☁️ Cloud Projects:</h2>
 
+- **[CloudSec IaC Baseline](https://github.com/Dayvison07/azure-cloudsec-lab)**
+  - Automated secure Azure infrastructure provisioning using Terraform, GitHub Actions, and OIDC authentication. (Cloud | DevSecOps | IaC | Azure | Security)
+    
 - **[Azure Sentinel Honeypot Attack Map](https://github.com/Dayvison07/azure-sentinel-honeypot/blob/main/README.md)**
   - Real-time attack visualization using Azure Sentinel and custom honeypot logs. (Cloud | SOC | SIEM | Threat Hunting)
     
